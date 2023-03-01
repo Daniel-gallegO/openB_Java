@@ -1,3 +1,5 @@
+package com.company;
+
 public class a01_project {
     public static void main(String[] args) {
         System.out.println("Hola Mundo !!!");
