@@ -5,7 +5,7 @@ package com.company;
  * @author  Daniel-gallegO
  * @see otras clases o datos
  */
-public class a03_comentYdoc {
+public class A03_comentYdoc {
 
     /**
      *Función principal, punto de entrada a la aplicación

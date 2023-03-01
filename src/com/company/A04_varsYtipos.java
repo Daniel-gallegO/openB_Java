@@ -1,6 +1,6 @@
 package com.company;
 
-public class a04_varsYtipos {
+public class A04_varsYtipos {
 
     public static void main(String[] args) {
 
