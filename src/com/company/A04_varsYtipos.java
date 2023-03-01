@@ -67,7 +67,7 @@ public class A04_varsYtipos {
         // (los envuelven y pueden ser nulos)
 
         Integer numero0 = null;
-        Long numero2 = 0;
+        Long numero2 = 2L;
 
 
 
