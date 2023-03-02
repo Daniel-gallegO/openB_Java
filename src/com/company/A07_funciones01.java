@@ -1,6 +1,6 @@
 package com.company;
 
-public class A07_funciones {
+public class A07_funciones01 {
 
     public static void main(String[] args) {
 
