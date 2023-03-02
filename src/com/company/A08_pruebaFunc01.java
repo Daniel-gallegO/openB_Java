@@ -1,6 +1,6 @@
 package com.company;
 
-public class A08_pruebaFunc {
+public class A08_pruebaFunc01 {
 
     public static void main(String[] args) {
 
